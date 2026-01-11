@@ -1,4 +1,4 @@
-# Matias Muñoz
+# Matías Muñoz
 
 Computer Science student interested in software development, with a strong focus on problem solving and building practical systems. I am currently strengthening my fundamentals by working on real projects and learning modern development tools.
 
@@ -17,6 +17,12 @@ Python, Django, Django REST Framework, PostgreSQL, Git, GitHub
 * **Learning Git** – Repository focused on practicing Git and GitHub workflows, including commits, branches, and merges.
 * **Rural Water Management System** (in progress) – Remastering my thesis project: a management system for rural drinking water services, integrated with an automatic water meter.
 
+## Certifications
+
+* **AWS Academy Graduate – Cloud Foundations** (Training Badge) – Issued by Amazon Web Services Training and Certification
+  Credential: [https://www.credly.com/badges/15fed54b-24bd-448b-b7ad-2d3295fa2366/public_url](https://www.credly.com/badges/15fed54b-24bd-448b-b7ad-2d3295fa2366/public_url)
+
 ## Contact
 
 Email: [matias.dev.cl@gmail.com](mailto:matias.dev.cl@gmail.com)
+
